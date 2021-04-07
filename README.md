@@ -1,3 +1,1 @@
-# contoh
-
-testtttt
+# Prolog
